@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "http://github.com/datacarpentry/workshop-template"
-workshop_site   : "http://datacarpentry.github.io/workshop-template"
+workshop_repo   : "http://github.com/ashander/2017-06-08-QuARRC-UMN"
+workshop_site   : "http://ashander.github.io/2017-06-08-QuARRC-UMN"
 #--------------------------------------------------------------------------------
 # Standard Data Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
